@@ -1,5 +1,5 @@
 # Frontend Facebook
-A Facebook website built entirely on jquery and ajax
+A minimal Facebook website built entirely on jquery and ajax
 
 ## Project Purpose
 
@@ -10,8 +10,12 @@ Needed a project to learn jquery and ajax with. So I built this.
 1. Clone the repository.
 
 2. Open index.html. This will take you to the registration page.
+<img src="./facebook/images/login.JPG" width="300">
 
-3. Register an account
+3. Log in, or register an account
+
+4. View and comment on other people's posts!
+<img src="./facebook/images/newsfeed.JPG" width="300">
 
 ## Acknowledgments
 
