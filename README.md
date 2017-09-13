@@ -17,6 +17,10 @@ Needed a project to learn jquery and ajax with. So I built this.
 4. View and comment on other people's posts!
 ![newsfeed](./images/newsfeed.JPG)
 
+## Key Tools
+
+jquery, ajax
+
 ## Acknowledgments
 
 * Horizons School of Technology
