@@ -10,12 +10,12 @@ Needed a project to learn jquery and ajax with. So I built this.
 1. Clone the repository.
 
 2. Open index.html. This will take you to the registration page.
-<img src="./images/login.JPG" width="300">
+![login](./images/login.JPG)
 
 3. Log in, or register an account
 
 4. View and comment on other people's posts!
-<img src="./images/newsfeed.JPG" width="300">
+![newsfeed](./images/newsfeed.JPG)
 
 ## Acknowledgments
 
